@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+
+p { 
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+ 
+p a {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: chocolate;
+}
+
+p em strong {
+    color: blue;
+    font-family: 'serif';
+}
+
+p strong{
+    color: yellow;
+}
+
+li {
+    color: darkgreen;
+}
+
+tr td {
+    color: white;
+}
